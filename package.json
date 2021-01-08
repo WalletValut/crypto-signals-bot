@@ -1,0 +1,23 @@
+{
+  "name": "algosats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "binance-api-node": "^0.10.16",
+    "dotenv": "^8.2.0",
+    "install": "^0.13.0",
+    "node-cache": "^5.1.2",
+    "puppeteer": "^5.5.0",
+    "technicalindicators": "^3.1.0",
+    "telegram-bot-api": "^2.0.1",
+    "twitter": "^1.7.1"
+  }
+}
